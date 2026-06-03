@@ -3,11 +3,11 @@ COMPANY: CODTECH IT SOLUTIONS
 
 NAME: DAMA KAVYA
 
-INTERN ID: CTIS9747
+INTERN ID: CTIS8825
 
 DOMAIN: VLSI
 
-DURATION: 4 WEEKS
+DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
 
@@ -64,3 +64,10 @@ Conclusion
 The 4-stage pipelined processor was successfully designed, implemented, and simulated using VHDL. The processor correctly executed ADD, SUB, and LOAD instructions while demonstrating the principles of pipelined execution. Simulation results verified proper operation of all pipeline stages and confirmed successful instruction flow through the processor. This project provides a strong foundation for understanding advanced processor architectures and FPGA-based digital system design.
 
 ##Output
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50151e5f-4116-45c3-9ec8-12f14ce2e41d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b5eafeb-9ee7-4b8b-ba58-33ff2b29a38a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0f83939-337f-476e-8659-cb3c2ae6f8e8" />
+
+
+
